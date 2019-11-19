@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Book</string>
+
+    <string-array name="vowels">
+        <item>অ</item>
+        <item>আ</item>
+        <item>ই</item>
+        <item>ঈ</item>
+
+    </string-array>
+    <string-array name="vowelsdetails">
+        <item>অ"'"তে আম</item>
+        <item>আ"'"তে আতা</item>
+        <item>ই"'"তে ইক্ষু</item>
+        <item>ঈ"'"তে ঈগল</item>
+
+    </string-array>
+    <string-array name="consonant">
+        <item>ক</item>
+        <item>খ</item>
+        <item>গ</item>
+        <item>ঘ</item>
+        <item>ঙ</item>
+
+    </string-array>
+    <string-array name="consonantdetails">
+        <item>ক"'"তে কলা</item>
+        <item>খ"'"তে খৈ</item>
+        <item>গ"'"তে গরু</item>
+        <item>ঘ"'"তে ঘোড়া</item>
+        <item>ঙ"'"তে ব্যাঙ</item>
+
+    </string-array>
+
+    <string-array name="abc">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+
+    </string-array>
+    <string-array name="abcdetails">
+        <item>A for Apple</item>
+        <item>B for Ball</item>
+        <item>C for Cat</item>
+        <item>D for Dog</item>
+        <item>E for Elephant</item>
+        <item>F for Frog</item>
+
+    </string-array>
+
+    <string-array name="digit">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+
+    </string-array>
+    <string-array name="digitdetails">
+        <item>1 One</item>
+        <item>2 Two</item>
+        <item>3 Three</item>
+        <item>4 Four</item>
+        <item>5 Five</item>
+        <item>6 Six</item>
+        <item>7 Seven</item>
+        <item>8 Eight</item>
+        <item>9 Nine</item>
+        <item>10 Ten</item>
+
+    </string-array>
+
+</resources>
